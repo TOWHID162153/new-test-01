@@ -1,16 +1,16 @@
 .sec-test-1{
     display: flex;
-    background-image: url(/images/s1\ bg_.jpg);
+    background-image: url(images/s1\ bg_.jpg);
     background-repeat: no-repeat;
 }
 .sec-test-2{
     display: flex;
-    background-image: url(/images/s2\ bg_.jpg);
+    background-image: url(images/s2\ bg_.jpg);
     background-repeat: no-repeat;
 }
 .sec-test-3{
     display: flex;
-    background-image: url(/images/header_bg1.png);
+    background-image: url(images/header_bg1.png);
     background-position: right;
     background-repeat: no-repeat;
 }
